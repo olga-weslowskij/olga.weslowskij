@@ -1,0 +1,21 @@
+Notes shoud be (midi,in?)events
+Stream should be a tree
+Screens should display objects and add their possible Tasks to the screen menu
+Configuration of objects via gui
+Notes should be assigned to a chord (not only automatic guessing)
+Best Plays today
+myStartRuns should return RunStates (not Notes or chords or whatever (to include speedtol))
+challenenge instream should include time events (not only notes)
+saving recursive configurations (Transactions on serialization)
+better lecture creation (Simon needs partid to practice, self made lectures..)
+speed settings for challenges/lectures (did a bit)
+Play what you know, start lecture at first last fault
+i want a ranking structure based on a tree
+olga logs all important messages (log level olga) (did a bit, but problem is messy)
+midi play settings and player widget
+play along (long term, needs left right splitting )
+midi commands (trigger actions on keys)
+gui
+documentation
+motivation, vcard (?)
+publish beta

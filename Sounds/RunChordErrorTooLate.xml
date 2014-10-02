@@ -1,0 +1,27 @@
+<MySong nid="640009">
+  <musicxmlString>'/Sounds/RunChordErrorTooLate.xml'</musicxmlString>
+  <nid>640009</nid>
+  <endparts>[]</endparts>
+  <startparts>[]</startparts>
+  <handparts>[0]</handparts>
+  <mystream nid="640011">
+    <notes nid="'None'">
+      <pos_0 nid="12">
+        <_midi>80</_midi>
+        <_volume>70</_volume>
+        <nid>12</nid>
+        <_myoffset>1.0</_myoffset>
+        <_myduration>100.0</_myduration>
+      </pos_0>
+      <pos_2 nid="13">
+        <_midi>80</_midi>
+        <_volume>70</_volume>
+        <nid>13</nid>
+        <_myoffset>500.0</_myoffset>
+        <_myduration>100.0</_myduration>
+      </pos_2>
+    </notes>
+    <nid>640011</nid>
+    <hands>None</hands>
+  </mystream>
+</MySong>

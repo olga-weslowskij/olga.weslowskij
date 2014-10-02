@@ -1,0 +1,49 @@
+<MySong nid="639994">
+  <musicxmlString>'/Sounds/Goodxml'</musicxmlString>
+  <nid>639994</nid>
+  <endparts>[]</endparts>
+  <startparts>[]</startparts>
+  <handparts>[0]</handparts>
+  <mystream nid="639996">
+    <notes nid="'None'">
+      <pos_0 nid="639997">
+        <_midi>60</_midi>
+        <dbloc>'knownNotes'</dbloc>
+        <_volume>70</_volume>
+        <nid>639997</nid>
+        <hand>0</hand>
+        <_myoffset>1.0</_myoffset>
+        <_myduration>1000.0</_myduration>
+      </pos_0>
+      <pos_1 nid="639998">
+        <_midi>72</_midi>
+        <dbloc>'knownNotes'</dbloc>
+        <_volume>70</_volume>
+        <nid>639998</nid>
+        <hand>0</hand>
+        <_myoffset>1.0</_myoffset>
+        <_myduration>1000.0</_myduration>
+      </pos_1>
+      <pos_2 nid="639999">
+        <_midi>72</_midi>
+        <dbloc>'knownNotes'</dbloc>
+        <_volume>70</_volume>
+        <nid>639999</nid>
+        <hand>0</hand>
+        <_myoffset>1000.0</_myoffset>
+        <_myduration>1000.0</_myduration>
+      </pos_2>
+      <pos_3 nid="640000">
+        <_midi>84</_midi>
+        <dbloc>'knownNotes'</dbloc>
+        <_volume>70</_volume>
+        <nid>640000</nid>
+        <hand>0</hand>
+        <_myoffset>1000.0</_myoffset>
+        <_myduration>1000.0</_myduration>
+      </pos_3>
+    </notes>
+    <nid>639996</nid>
+    <hands>None</hands>
+  </mystream>
+</MySong>

@@ -1,0 +1,31 @@
+<MySong nid="640008">
+  <musicxmlString>'/Sounds/RunChordErrorTooEarly.xml'</musicxmlString>
+  <nid>640008</nid>
+  <endparts>[]</endparts>
+  <startparts>[]</startparts>
+  <handparts>[0]</handparts>
+  <mystream nid="1640010">
+    <notes nid="'None'">
+      <pos_0 nid="640011">
+        <_midi>80</_midi>
+        <dbloc>'knownNotes'</dbloc>
+        <_volume>70</_volume>
+        <nid>640011</nid>
+        <hand>0</hand>
+        <_myoffset>1.0</_myoffset>
+        <_myduration>100.0</_myduration>
+      </pos_0>
+      <pos_2 nid="640013">
+        <_midi>80</_midi>
+        <dbloc>'knownNotes'</dbloc>
+        <_volume>70</_volume>
+        <nid>640013</nid>
+        <hand>0</hand>
+        <_myoffset>200.0</_myoffset>
+        <_myduration>100.0</_myduration>
+      </pos_2>
+    </notes>
+    <nid>1640010</nid>
+    <hands>None</hands>
+  </mystream>
+</MySong>

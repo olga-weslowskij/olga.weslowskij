@@ -1,0 +1,8 @@
+<SimonMode nid="None">
+  <speedtol>0</speedtol>
+  <speed>None</speed>
+  <repeat>1</repeat>
+  <adaptive>True</adaptive>
+  <paused>False</paused>
+  <songpart>1</songpart>
+</SimonMode>
