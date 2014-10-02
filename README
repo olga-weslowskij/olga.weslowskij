@@ -19,7 +19,7 @@ Fundamentals of Piano Practice by Chuan C. Chang (http://www.pianofundamentals.
 
 
 Install:
-Install.sh installs all needed software on Ubuntu 14.04
+./install.sh installs all needed software on Ubuntu 14.04
 
 Run:
 ./runit.sh
